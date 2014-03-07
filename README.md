@@ -1,18 +1,16 @@
-1GAM-February
-=============
+#1GAM-February
+
 Source code for February 1GAM
+Created with the wife to help her learn Game Development.  A simple puzzle game trying to mix ingredients and eat items in Heat order before running out of milk to drink.
 
-Created with the wife to help her learn Game Development.
 
-=============
-Tools Used during Development
-=============
-Inkscape
-Audacity
+#Tools Used during Development
+* Unity 4.3
+* Inkscape
+* Audacity
 
-=============
-Additional Assets Used in Development
-=============
-Prime31 GoKit
-NGUI (Removed from the source due to licensing)
-Dafont.com
+
+#Unity Assets Used in Development
+* Prime31 GoKit
+* NGUI (Removed from the source due to licensing)
+* Dafont.com
